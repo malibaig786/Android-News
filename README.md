@@ -5,8 +5,8 @@ Some Popular News about android
 
 ### [Android Pie SDK is now more Kotlin-friendly](https://android-developers.googleblog.com/2018/08/android-pie-sdk-is-now-more-kotlin.html)
 ### [Discontinuing support for Android Nearby Notifications](https://android-developers.googleblog.com/2018/10/discontinuing-support-for-android.html?linkId=58716224)
-
 ### [10 years of Android](https://twitter.com/AndroidDev/status/1055925572256350208)
+### [Android and Google Play Security Rewards Programs surpass $3M in payouts](https://android-developers.googleblog.com/2018/09/android-and-google-play-security.html?linkId=57136741)
 
 ## Google Play
 ### [Google Play offline peer to peer installs beta](https://android-developers.googleblog.com/2018/10/offline-p2p-installs-beta.html)
