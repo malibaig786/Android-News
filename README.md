@@ -14,9 +14,9 @@ Some Popular News about android
   ### User Data & Permissions
   ### Ads & Impersonation
   
-- [Google Play offline peer to peer installs beta](https://android-developers.googleblog.com/2018/10/offline-p2p-installs-beta.html)
-- [GooglePlay will require all updates to apps and games to target API level 26 (or higher)](https://twitter.com/GooglePlayDev/status/1050796743640735746)
-- [GooglePlaytime we’ve announced several updates to help you build & manage your app business](https://twitter.com/GooglePlayDev/status/1052968301608017920)
+### [Google Play offline peer to peer installs beta](https://android-developers.googleblog.com/2018/10/offline-p2p-installs-beta.html)
+### [GooglePlay will require all updates to apps and games to target API level 26 (or higher)](https://twitter.com/GooglePlayDev/status/1050796743640735746)
+### [GooglePlaytime we’ve announced several updates to help you build & manage your app business](https://twitter.com/GooglePlayDev/status/1052968301608017920)
   
   
 
